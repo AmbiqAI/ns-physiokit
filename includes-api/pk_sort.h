@@ -24,3 +24,5 @@ pk_binary_search_f32(float32_t *x, size_t xLen, float32_t xNew);
 #ifdef __cplusplus
 }
 #endif
+
+#endif // __PK_SORT_H

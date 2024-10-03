@@ -19,7 +19,7 @@ extern "C" {
 #include "arm_math.h"
 
 void
-pk_inter1d_f32(float32_t *x, float32_t *y, uint32_t xLen, uint32_t yLen, float32_t *xNew, float32_t *yNew, uint32_t xNewLen);
+pk_inter1d_f32(float32_t *x, float32_t *y, uint32_t xLen, float32_t *xNew, float32_t *yNew, uint32_t xNewLen);
 
 #ifdef __cplusplus
 }
